@@ -187,7 +187,7 @@
     "semver": "^7.3.7",
     "semver-diff": "^3.1.1",
     "send": "^0.18.0",
-    "sequelize": "^6.21.2",
+    "sequelize": "^6.28.2",
     "sequelize-cli": "^6.4.1",
     "sequelize-pool": "^7.1.0",
     "serve-static": "^1.15.0",
